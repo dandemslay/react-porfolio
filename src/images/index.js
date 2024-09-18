@@ -1,0 +1,8 @@
+export {default as logo} from "./Dandemslay_Logo_without_Strokes.png" 
+export {default as profile1} from "./Header_image_cartoon.png" 
+export {default as profile2} from "./About_image_cartoon.jpeg" 
+export {default as profile3} from "./profile-3.jpeg" 
+export {default as profile4} from "./profile-4.jpeg" 
+export {default as profile5} from "./profile-5.jpeg" 
+export {default as profile6} from "./profile-6.jpeg"
+export {default as TuringLogo} from "./TuringLogo_400x400.png"
